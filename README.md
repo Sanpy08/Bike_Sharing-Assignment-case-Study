@@ -26,4 +26,4 @@ Current repository consists of multiple branches:
 2. **Linear-Model**
     This repository consists of Linear Regression model based learning. 
 3. **Neural-Network**
-    This repository consists of Artificial Neural Network (ANN) model based learning.
+    This repository consists of Artificial Neural Network (ANN) model based learning
